@@ -1,7 +1,1 @@
-cd C:/Users/noaht/projects/everpaws
-  git init
-  git add .
-  git commit -m "initial"
-  git remote add origin https://github.com/YOU
-  R_USERNAME/everpaws.git
-  git push -u origin main
+cd
